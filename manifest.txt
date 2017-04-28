@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Main-Class: com.csc573.p2p.MainActivity
